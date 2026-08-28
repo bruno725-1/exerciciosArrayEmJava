@@ -12,3 +12,7 @@ b. Apresentar a soma dos números pares armazenados no vetor.
 c. Imprimir as posições do vetor que armazenam números negativos. 
 d. Imprimir o menor e o maior número informado. 
 e. Imprimir os elementos armazenados nas posições ímpares do vetor. 
+
+## 2) Preencha dois vetores de 10 posições cada a partir do teclado. Some os elementos das 
+posições correspondentes em cada vetor e os armazene num terceiro vetor de 10 
+posições. Apresente os 3 vetores na tela. 
