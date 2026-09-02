@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Ex2.rodar();
+        Ex3.rodar();
     }
 }
